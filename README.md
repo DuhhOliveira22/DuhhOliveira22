@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! Eu sou o DUH 👋
 
-<!--
-**DuhhOliveira22/DuhhOliveira22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Fullstack em formação com foco em soluções práticas  
+🧠 Apaixonado por automação, dados e produtividade  
+🔧 Criador do projeto **DATADUH** – ERP pessoal multiuso
 
-Here are some ideas to get you started:
+## 💼 Projetos em destaque
+- [DATADUH](https://github.com/DuhhOliveira22/DuhhOliveira22) – ERP Web
+- [Planilhas Inteligentes com VBA](link-do-repo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+- Email: seuemail@exemplo.com  
+- LinkedIn: [Eduardo](https://www.linkedin.com/in/eduardo-oliveira-sistema-dataduh)
+
+---
+> “Automatizar o que é repetitivo é abrir espaço para o que importa.”
