@@ -6,10 +6,9 @@
 
 ## 💼 Projetos em destaque
 - [DATADUH](https://github.com/DuhhOliveira22/DuhhOliveira22) – ERP Web
-- [Planilhas Inteligentes com VBA](link-do-repo)
 
 ## 📫 Contato
-- Email: seuemail@exemplo.com  
+- Email: sistemadataduh@gmail.com  
 - LinkedIn: [Eduardo](https://www.linkedin.com/in/eduardo-oliveira-sistema-dataduh)
 
 ---
