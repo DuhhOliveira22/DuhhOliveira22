@@ -1,4 +1,4 @@
-# Sou o Eduardo 👋
+# Sou Eduardo 👋
 
 🎯 **Desenvolvedor Fullstack em formação**, com foco em soluções práticas e sistemas reais  
 🧠 Apaixonado por **automação, dados, produtividade e organização**  
