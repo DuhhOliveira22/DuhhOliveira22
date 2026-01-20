@@ -1,14 +1,11 @@
-# Olá! Eu sou o Eduardo 👋
+# Sou o Eduardo 👋
 
 🎯 **Desenvolvedor Fullstack em formação**, com foco em soluções práticas e sistemas reais  
 🧠 Apaixonado por **automação, dados, produtividade e organização**  
 🔧 Criador do **DATADUH**, um sistema de gestão pessoal e empresarial em evolução
-
 ---
-
 ## 🚀 Sobre mim
-
-Atualmente estou em uma jornada para me tornar **Fullstack até 2026**, transformando experiências reais — como sistemas em Excel VBA — em **aplicações web modernas**, acessíveis via navegador e independentes de ferramentas proprietárias.
+Atualmente estou em uma jornada para me tornar **Fullstack**, transformando experiências reais — como sistemas em Excel VBA em **aplicações web modernas**, acessíveis via navegador e independentes de ferramentas proprietárias.
 
 Aprendo construindo, errando, corrigindo e documentando todo o processo.
 
@@ -28,7 +25,7 @@ ERP pessoal/empresarial com foco em automação e controle:
 - 🗓️ Agenda pessoal  
 
 🔗 Repositório:  
-👉 [github.com/DuhhOliveira22/dataduh](https://github.com/DuhhOliveira22/dataduh)
+👉 [github.com/DuhhOliveira22/dataduh](https://github.com/DuhhOliveira22/DuhhOliveira22)
 
 ---
 
